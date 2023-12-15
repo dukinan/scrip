@@ -19,10 +19,9 @@ Execute the below command one after another in the terminal
 Current I've placed **lamp.sh** file in the home directory and running the script directly from my home directory. You can place it any where you want, just make sure you specify the path correctly.
 
 ```
-ubuntu@aniruddhasm:~$ sudo a+x lamp.sh
-ubuntu@aniruddhasm:~$ ./lamp.sh
+wget https://raw.githubusercontent.com/dukinan/scrip/master/lamp.sh & && chmod +x lamp.sh && ./lamp.sh
 ```
 
 ## Scripts with name and description
 
-* [lamp.sh](https://github.com/aniruddhasm/scripts/blob/master/lamp.sh) - This will install Apache2, MySQL, PHP, phpMyAdmin on the server in a single command.
+* [lamp.sh](https://github.com/dukinan/scrip/blob/master/lamp.sh) - This will install Apache2, MySQL, PHP, phpMyAdmin on the server in a single command.

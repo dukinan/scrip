@@ -1,4 +1,4 @@
-# Shell Scripts
+# Auto Scripts
 
 This repository has scripts that will help you install apache, mysql, php, phpMyAdmin as per project requirement on the server instead of installing them individually. This will help the developers from individually searching the applications online and exceuting the commands one by one.
 
